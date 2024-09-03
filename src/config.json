@@ -1,0 +1,16 @@
+{
+    "bot": {
+        "client_id": "",
+        "token": "",
+        "presence": {
+            "status": "idle",
+            "text": "İstatistik Botu | by Thendra"
+        },
+        "mongoUrl": ""
+    },
+    "embeds": {
+        "colorDefault": "#ecc5c0",
+        "colorError": "#FF4949",
+        "colorSuccessfull": "#00FF2B"
+    }
+}

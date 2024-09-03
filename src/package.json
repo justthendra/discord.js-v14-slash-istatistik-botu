@@ -1,0 +1,30 @@
+{
+  "name": "discord.js-v14-slash-istatistik-botu",
+  "version": "1.0.0",
+  "description": "🔗 Slash Komutlu V14 Istatistik Botu",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justthendra/discord.js-v14-slash-istatistik-botu.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot",
+    "Slash",
+    "İstatistik"
+  ],
+  "author": "Thendra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justthendra/discord.js-v14-slash-istatistik-botu/issues"
+  },
+  "homepage": "https://github.com/justthendra/discord.js-v14-slash-istatistik-botu#readme",
+  "dependencies": {
+    "discord.js": "^14.16.1",
+    "mongoose": "^6.7.0",
+    "nodemon": "^3.1.4"
+  }
+}
