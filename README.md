@@ -24,7 +24,7 @@ sadece bu komutu yazarak bütün modülleri indirebilirsiniz, modüllerin isimle
 - I. [Visual Studio Code](https://code.visualstudio.com/) indirin.
 - II. [node.js](https://nodejs.org/en/download/) indirin.
 - III. Komut istemcisini açın `node -v` komutu ile node.js sürümünün **16.9.0** veya üstünü yüklediğinizden emin olun.
-- IV. [Projeyi İndirin](https://github.com/justthendra/discord.js-v14-slash-kayit-botu) ve klasörü .zip klasöründen normal bir klasöre çıkarın.
+- IV. [Projeyi İndirin](https://github.com/justthendra/discord.js-v14-slash-istatistik-botu) ve klasörü .zip klasöründen normal bir klasöre çıkarın.
 - V. Klasörü yeni bir VSCode sekmesinde açın.
 - VI. `src/config.json` dosyasına gidin ve dosyayı düzenleyin.
 - VII. Terminali açın ve `node .\src\bot.js` veya src klasörünün içinde `node .` yazarak botu başlatın.
